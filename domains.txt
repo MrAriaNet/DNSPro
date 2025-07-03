@@ -1,3 +1,5 @@
+apache.org
+jitpack.io
 releem.com
 lgappstv.com
 codeium.com
