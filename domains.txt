@@ -863,3 +863,4 @@ awsglobalaccelerator.com
 riotcdn.net
 playvalorant.com
 onshape.com
+day.ir
