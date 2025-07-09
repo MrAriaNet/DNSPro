@@ -197,6 +197,7 @@ joker.com
 kingcomposer.com
 kitbash3d.com
 kali.org
+kali.download
 leagueoflegends.com
 lenovo.com
 licensepal.com
