@@ -196,6 +196,7 @@ plugins.jetbrains.com
 joker.com
 kingcomposer.com
 kitbash3d.com
+kali.org
 leagueoflegends.com
 lenovo.com
 licensepal.com
