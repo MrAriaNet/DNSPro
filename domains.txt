@@ -1,3 +1,4 @@
+opsshield.com
 sematext.com
 apache.org
 jitpack.io
@@ -215,6 +216,8 @@ media-imdb.com
 medium.com
 meetfranz.com
 diagnostics.meethue.com
+api.cognitive.microsofttranslator.com
+eastus.stt.speech.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
 ieonline.microsoft.com
