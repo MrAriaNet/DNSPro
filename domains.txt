@@ -480,3 +480,4 @@ oraclecloud.com
 linuxhostsupport.com
 web.dev
 registry.npmjs.org
+emailapi.netcorecloud.net
