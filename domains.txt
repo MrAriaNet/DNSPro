@@ -473,6 +473,8 @@ search.google.com
 lastpass.com
 cursor.com
 gemini.google.com
+dl-cdn.alpinelinux.org
+alpinelinux.org
 bard.google.com
 grok.com
 cloud.oracle.com
