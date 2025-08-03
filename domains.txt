@@ -149,7 +149,6 @@ digitalocean.com
 dillinger.io
 districtm.io
 dl-cdn.alpinelinux.org
-dl.fedoraproject.org
 dl.google.com
 dlsdm.com
 dnsmadeeasy.com
@@ -291,7 +290,6 @@ meetfranz.com
 memoryhackers.org
 microsoftonline.com
 mirrors.centos.org
-mirrors.fedoraproject.org
 miui.com
 mixer.com
 mixpanel.com
@@ -473,7 +471,6 @@ wd.com
 web.dev
 webassetscdn.com
 webdesign.org
-wildcard.fedoraproject.org
 wordfence.com
 wordpress.com
 wordpress.org
@@ -492,6 +489,5 @@ zestyio.com
 zonealarm.com
 tuxcare.com
 fedoraproject.org
-registry.fedoraproject.org
 openshift.com
 quay.io
