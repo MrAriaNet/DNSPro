@@ -482,6 +482,8 @@ wpall.club
 wpbakery.com
 www3.l.google.com
 xbox.com
+redhat.com
+redhat.io
 xboxlive.com
 xilinx.com
 yougetsignal.com
@@ -489,3 +491,7 @@ zerotier.com
 zestyio.com
 zonealarm.com
 tuxcare.com
+fedoraproject.org
+registry.fedoraproject.org
+openshift.com
+quay.io
