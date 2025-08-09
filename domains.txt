@@ -491,3 +491,6 @@ tuxcare.com
 fedoraproject.org
 openshift.com
 quay.io
+opensearch.org
+graylog.org
+elastic.co
