@@ -494,3 +494,5 @@ quay.io
 opensearch.org
 graylog.org
 elastic.co
+er-api.com
+domainnameapi.com
