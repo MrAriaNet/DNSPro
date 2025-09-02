@@ -499,3 +499,4 @@ domainnameapi.com
 ipinfo.io
 he.net
 sonatype.com
+pkg.dev
