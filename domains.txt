@@ -205,6 +205,7 @@ gcr.io
 geforce.com
 gemini.google.com
 generativelanguage.googleapis.com
+storage.googleapis.com
 genymotion.com
 getflywheel.com
 gettyimages.com
@@ -501,3 +502,5 @@ he.net
 sonatype.com
 pkg.dev
 openshift.org
+fastnetmon.com
+cpanel.net
