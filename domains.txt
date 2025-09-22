@@ -503,4 +503,3 @@ sonatype.com
 pkg.dev
 openshift.org
 fastnetmon.com
-cpanel.net
