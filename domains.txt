@@ -389,6 +389,7 @@ sematext.com
 semrush.com
 sendgrid.com
 sentry.io
+sentry-cdn.com
 seo-hacker.com
 seoptimer.com
 seoreviewtools.com
