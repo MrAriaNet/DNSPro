@@ -505,3 +505,4 @@ pkg.dev
 openshift.org
 fastnetmon.com
 ntop.org
+perplexity.ai
