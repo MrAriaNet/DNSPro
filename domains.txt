@@ -506,4 +506,5 @@ openshift.org
 fastnetmon.com
 ntop.org
 perplexity.ai
+elementor.com
 ai.google.dev
