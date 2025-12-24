@@ -508,3 +508,8 @@ ntop.org
 perplexity.ai
 elementor.com
 ai.google.dev
+colab.research.google.com
+docs.arduino.cc
+suno.com
+driverhub.asus.com
+freepik.com
