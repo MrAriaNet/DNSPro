@@ -513,3 +513,4 @@ docs.arduino.cc
 suno.com
 driverhub.asus.com
 freepik.com
+ollama.ai
