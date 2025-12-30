@@ -515,3 +515,4 @@ driverhub.asus.com
 freepik.com
 ollama.ai
 ollama.com
+hashicorp.com
