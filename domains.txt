@@ -536,3 +536,7 @@ yougetsignal.com
 zerotier.com
 zestyio.com
 zonealarm.com
+cl-mirror.net
+cursor.com
+cursor.ai
+cursor.sh
